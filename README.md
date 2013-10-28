@@ -19,7 +19,7 @@ For all Sublime Text 2/3 users we recommend install via [Package Control][3].
 
 1. Click the `Preferences > Browse Packages…` menu
 2. Browse up a folder and then into the `Installed Packages/` folder
-3. Download [zip package](https://github.com/yuanfang829/fis-sublime-command/zip/master) rename it to `fis.sublime-package` and copy it into the `Installed Packages/` directory
+3. Download [zip package](https://github.com/yuanfang829/fis-sublime-command/archive/master.zip) rename it to `fis.sublime-package` and copy it into the `Installed Packages/` directory
 4. Restart Sublime Text
 
 ##配置
