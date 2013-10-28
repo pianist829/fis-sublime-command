@@ -1,0 +1,10 @@
+/.idea
+
+.DS_Store
+*.db
+*.bak
+*.tmp
+*.cmd
+~*
+
+upload.py

@@ -1,0 +1,16 @@
+{
+	"schema_version": "1.2",
+	"packages": [{
+		"name": "fis",
+		"description": "fis release",
+		"author": "yuanfang829",
+		"homepage": "https://github.com/yuanfang829/fis-sublime-command",
+		"last_modified": "2013-10-28 15:30:00",
+		"platforms": {
+			"*": [{
+				"version": "0.1",
+				"url": "https://nodeload.github.com/yuanfang829/fis-sublime-command/zip/first"
+			}]
+		}
+	}]
+}
