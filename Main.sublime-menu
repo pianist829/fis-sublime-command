@@ -1,0 +1,22 @@
+[{
+    "caption": "Preferences",
+    "mnemonic": "n",
+    "id": "preferences",
+    "children": [{
+        "caption": "Package Settings",
+        "mnemonic": "P",
+        "id": "package-settings",
+        "children": [{
+            "caption": "fis",
+            "children": [{
+                "command": "open_file",
+                "args": {
+                    "file": "${packages}/fis/fis.sublime-settings"
+                },
+                "caption": "Settings – Default"
+            }, {
+                "caption": "-"
+            }]
+        }]
+    }]
+}]

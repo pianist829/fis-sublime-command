@@ -1,0 +1,5 @@
+{
+	// Configuration fisp command
+	"cmd": ["fisp", "release", "--no-color"],
+	"fis_on_save": true
+}
