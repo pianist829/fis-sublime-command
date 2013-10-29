@@ -4,6 +4,8 @@
 
 * 支持文件保存时进行模块编译
 * 支持文件内容右键功能进行模块编译
+* 支持模板文件javascript语法高亮和自动完成
+
 
 ## Installation :
 
@@ -19,7 +21,7 @@ For all Sublime Text 2/3 users we recommend install via [Package Control][3].
 
 1. Click the `Preferences > Browse Packages…` menu
 2. Browse up a folder and then into the `Installed Packages/` folder
-3. Download [zip package](https://github.com/yuanfang829/fis-sublime-command/archive/master.zip) rename it to `fis.sublime-package` and copy it into the `Installed Packages/` directory
+3. Download [fis.sublime-package](http://pan.baidu.com/s/1oXKCK) and copy it into the `Installed Packages/` directory
 4. Restart Sublime Text
 
 ##配置
@@ -27,6 +29,8 @@ preferences->package setting->fis->setting Default
 
 * 修改cmd对应数组参数，进行fis编译命令修改。
 * 修改fis_on_save,启动或关闭文件保存编译功能，默认开启
+* 模板文件修改语法类型为FIS (tpl)
+
 
 ##注意事项
 
