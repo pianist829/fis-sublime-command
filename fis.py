@@ -1,4 +1,4 @@
-import sublime, sublime_plugin, os, subprocess
+import sublime, sublime_plugin, os
 
 s = None
 workDir = None
