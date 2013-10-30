@@ -2,4 +2,5 @@
     <content><![CDATA[require name="${1:requirename}"%]]></content>
     <tabTrigger>require</tabTrigger>
     <scope>text.html.fis</scope>
+    <description>FIS</description>
 </snippet>
