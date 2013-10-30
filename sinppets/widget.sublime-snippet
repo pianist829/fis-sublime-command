@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[{%widget name="${1:widgetname}"%}]]></content>
+    <content><![CDATA[widget name="${1:widgetname}"%]]></content>
     <tabTrigger>widget</tabTrigger>
     <scope>text.html.fis</scope>
+    <description>FIS</description>
 </snippet>
