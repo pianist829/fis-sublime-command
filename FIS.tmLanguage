@@ -4,15 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>html</string>
-		<string>htm</string>
-		<string>shtml</string>
-		<string>xhtml</string>
-		<string>phtml</string>
-		<string>inc</string>
-		<string>tmpl</string>
 		<string>tpl</string>
-		<string>ctp</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~H</string>
