@@ -29,7 +29,7 @@ preferences->package setting->fis->setting Default
 
 * 修改cmd对应数组参数，进行fis编译命令修改。
 * 修改fis_on_save,启动或关闭文件保存编译功能，默认开启
-* 模板文件修改语法类型为FIS (tpl)
+* 模板文件修改语法类型为Fis-tpl
 
 
 ##注意事项

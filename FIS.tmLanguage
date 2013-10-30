@@ -9,7 +9,7 @@
 	<key>keyEquivalent</key>
 	<string>^~H</string>
 	<key>name</key>
-	<string>FIS (tpl)</string>
+	<string>Fis-tpl</string>
 	<key>firstLineMatch</key>
 	<string>{%(?i:html)</string>
 	<key>patterns</key>
