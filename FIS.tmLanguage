@@ -159,7 +159,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>\b(require|block|widget|script)\b</string>
+					<string>\b(require|block|widget|script|extend)\b</string>
 					<key>name</key>
 					<string>support.function.built-in.smarty.fis</string>
 				</dict>
