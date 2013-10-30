@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-{%script%}
+script%}
     ${1:$SELECTION}
-{%/script%}
+{%/script%
 ]]></content>
     <tabTrigger>script</tabTrigger>
     <scope>text.html.fis</scope>
