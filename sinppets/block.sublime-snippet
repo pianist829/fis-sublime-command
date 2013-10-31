@@ -1,10 +1,9 @@
 <snippet>
     <content><![CDATA[
-block name="${1:blockname}"%}
+{%block name="${1:blockname}"%}
     ${2:$SELECTION}
-{%/block%
+{%/block%}
 ]]></content>
     <tabTrigger>block</tabTrigger>
     <scope>text.html.fis</scope>
-    <description>FIS</description>
 </snippet>
