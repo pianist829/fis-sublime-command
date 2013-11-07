@@ -9,6 +9,7 @@
 
 ## Installation :
 
+![install](http://c.hiphotos.bdimg.com/album/s%3D1000%3Bq%3D90/sign=a744d2ca3b01213fcb334adc64d70da0/eac4b74543a98226e5a8cd348882b9014a90ebbc.jpg)
 ### Using [Package Control](https://sublime.wbond.net/) (*Recommended*)
 
 For all Sublime Text 2/3 users we recommend install via [Package Control][3].
